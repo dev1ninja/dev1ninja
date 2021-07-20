@@ -1,4 +1,4 @@
-# Welcome to DevNinja's Git! <img src="./asset/welcome1.gif" width="100px">
+# Welcome to DevNinja's Git! <img src="./asset/welcome.gif" width="100px">
 <!-- <a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a> -->
 
 ## Hi all, I am Dev Ninja
