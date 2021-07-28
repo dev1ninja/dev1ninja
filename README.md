@@ -2,8 +2,8 @@
 <!-- <a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a> -->
 
 ## Hi all, I am Dev Ninja
-I am a senior full-stack developer with 4+ years of hands-on experience.
-My main stack is MERN and have more than 3+ years of strong experience in MERN development.
+I am a senior full-stack developer with 8+ years of hands-on experience.
+My main stack is MERN and have more than 5+ years of strong experience in MERN development.
 I have worked in serveral companies as a remote developer.
 I am good at javascript/typescript, html, css, tailwindcss and I am very familiar with frameworks such as React/Redux, Next.js, Node.js, Express.js and etc.
 Also I am familiar with Git, Monday, Trello.
