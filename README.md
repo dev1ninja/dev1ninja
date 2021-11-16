@@ -1,29 +1,45 @@
-# Welcome to DevNinja's Git! <img src="./asset/welcome.gif" width="100px">
-<!-- <a target="blank" href="https://profile-counter.glitch.me/happycodinglover/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/happycodinglover/count.svg" /></a> -->
+Hello there 👋
 
-## Hi all, I am Dev Ninja
-I am a senior full-stack developer with 5+ years of hands-on experience.
-My main stack is MERN and have more than 3+ years of strong experience in MERN development.
-I have worked in serveral companies as a remote developer.
-I am good at javascript/typescript, html, css, tailwindcss and I am very familiar with frameworks such as React/Redux, Next.js, Node.js, Express.js and etc.
-Also I am familiar with Git, Monday, Trello.
-I am convinced of my skills, experience, communication, and team work ability.
-I am always ready to talk with you about a new opportunity, and I can start working in a remote position immediately.
-Please DM me any time you want.
- 
-## My Skills
+Thanks for coming to my profile. Here is a few things to know me better:
+<!--
 
-|  Front-end   | Back-end   |  Full Stack   | Database   |
-| ----------- | ----------- | ----------- | ----------- |
-| <img src="./asset/frontend/htmlcssjs.png" width=120px height=50px><img src="./asset/frontend/react.png" width=50px height=50px><img src="./asset/frontend/redux.png" width=50px height=50px><img src="./asset/frontend/threejs.png" width=50px height=50px><img src="./asset/frontend/nextjs.png" width=100px height=50px><img src="./asset/frontend/tailwind.png" width=100px height=50px>      | <img src="./asset/backend/node.png" width=50px height=50px><img src="./asset/backend/python.png" width=50px height=50px><img src="./asset/backend/php.png" width=50px height=50px>      | <img src="./asset/fullstack/squarespace.png" width=100px height=50px><img src="./asset/fullstack/kajabi.png" width=100px height=50px>       | <img src="./asset/db/mongodb.png" width=100px height=50px><img src="./asset/db/mysql.png" width=100px height=50px><img src="./asset/db/mariadb.png" width=100px height=50px>       |
+ <a href="https://github.com/c-spider/c-spider" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=mulhamadil&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px" />
+  </a>
+  
+  <a href="https://github.com/c-spider/c-spider" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=c-spider&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="C-Spider's GitHub Stats" height="180px"/>
+  </a>
+-->
+<!-- ![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&count_public=true&show_icons=true)
+-->
+<!--
+![mulhamadil' GitHub stats](https://github-readme-stats.vercel.app/api?username=mulhamadil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
-## About me
-* I am an entrepreneurial software engineer heavily focusing on web development as a Full-stack.
-* My focus is to help clients with their business by fixing and creating projects of value.
-* I have experience working as an individual developer and a project manager in many projects providing me with the skills of communicating with clients to satisfy their needs.
-* My experience tells everybody who I am, what I can do for your project.
+[![Twitter: therealmulhamadil](https://img.shields.io/twitter/follow/mulhamadil?style=social)](https://twitter.com/ThaiiBraga)
+[![GitHub @mulhamadil](https://img.shields.io/github/followers/mulhamadil?label=follow&style=social)](https://github.com/mulhamadil)
+-->
 
-* A day in my life may consist of: prepping web art, fixing some front-end bugs, adding an API endpoint, dockerizing an application, database design, configuring a unit or UI test library, setting up a build or deployment plan, provisioning a test tier machine or feature work when I am lucky.
+## Preferred Tech Stack
 
-## Thank You For Your Time
-<img src="./asset/thankyou.gif" width="200px">
+| Stack Type | Elements |
+| ---------- | -------- |
+| IDE |  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-purple?style=flat-square&logo=visual-studio-code&logoColor=white)  |
+| Cloud |  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)  ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)  ![Rancher Certified](https://img.shields.io/badge/-Rancher%20Certified-blue?style=flat-square&logo=rancher&logoColor=white)  |
+| DevOps |  ![Gitlab Pipelines](https://img.shields.io/badge/-Gitlab%20Pipelines-orange?style=flat-square&logo=gitlab&logoColor=white)  ![Github Actions](https://img.shields.io/badge/-Github%20Actions-black?style=flat-square&logo=github&logoColor=white)  |
+| CDN |  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-yellow?style=flat-square&logo=gitlab&logoColor=orange)  |
+| Blockchain |  ![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square&logo=ethereum&logoColor=green)  ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=ethereum&logoColor=green)  ![Terra](https://img.shields.io/badge/-Terra-black?style=flat-square&logo=ethereum&logoColor=green)  ![Truffle](https://img.shields.io/badge/-Truffle-black?style=flat-square&logo=ethereum&logoColor=green)  ![Ganache](https://img.shields.io/badge/-Ganache-black?style=flat-square&logo=ethereum&logoColor=green)  ![Waffle](https://img.shields.io/badge/-Waffle-black?style=flat-square&logo=ethereum&logoColor=green)  ![Hardhat](https://img.shields.io/badge/-Hardhat-black?style=flat-square&logo=ethereum&logoColor=green)|
+| Backend |  ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324)  ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)  ![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis&logoColor=white)  ![MongoDB &amp; Atlas](https://img.shields.io/badge/-MongoDB%20&amp;%20Atlas-green?style=flat-square&logo=mongodb&logoColor=white)  |
+| Frontend |  ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=61DAFB)  ![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat-square&logo=vue.js&logoColor=white)  ![Nuxt](https://img.shields.io/badge/-Nuxt-green?style=flat-square&logo=nuxt.js&logoColor=white)  ![Realm DB](https://img.shields.io/badge/-Realm%20DB-purple?style=flat-square&logo=realm&logoColor=white)  ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)  |
+
+Plus some cool stuff I have here:
+
+| URL | Project Name | Description | Tech Stack |
+| --- | ------------ | ----------- | ---------- |
+| [**URL**](https:&#x2F;&#x2F;goa.design) | Goa Design | I an official maintainer of this framework which provides a holistic approach for developing remote APIs and microservices in Go | ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)![Goa Design framework](https://img.shields.io/badge/-Goa%20Design%20framework-blue?style=flat-square&logo=go&logoColor=white) |
+| [**URL**](https:&#x2F;&#x2F;github.com&#x2F;mulhamadil&#x2F;golang-crypto-trading-bot) | Golang Crypto Trading Bot | A golang implementation of a console-based trading bot for cryptocurrency exchanges. 300+ stars, featured on Awesome GO list | ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white) |
+| [**URL**](https:&#x2F;&#x2F;github.com&#x2F;mulham-adil&#x2F;vuejs-starter-kit) | Zeropenny Vue.js Starter Kit | A VueJS project which includes Navigation (vue-router), State management (vuex) all in an OOP Typescript flavour. Inspired by the [**Zero Penny Architecture**](https:&#x2F;&#x2F;medium.com&#x2F;@mulhamadil&#x2F;the-0-penny-architecture-explained-how-i-created-a-complete-development-environment-composing-4f1318c71a17) concept | ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)![Heroku](https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white)![Gitlab Pipelines](https://img.shields.io/badge/-Gitlab%20Pipelines-orange?style=flat-square&logo=gitlab&logoColor=white)![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat-square&logo=vue.js&logoColor=white) |
+| [**URL**](https:&#x2F;&#x2F;github.com&#x2F;mulham-adil&#x2F;create-zp-vue-app) | Create Zeropenny Vue App | An application made to generate projects based on [zeropenny-vuejs-starter-kit](https:&#x2F;&#x2F;github.com&#x2F;mulham-adil&#x2F;vuejs-starter-kit) | ![Node](https://img.shields.io/badge/-Node-green?style=flat-square&logo=node.js&logoColor=white) |
+
+🌃 Skype ID: live:.cid.c263e3d29dbe1ee8
+📧 Email: devninja.up@gmail.com
